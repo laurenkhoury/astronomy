@@ -1,6 +1,6 @@
 # astronomy
 
-Welcome! 
+Welcome! 💫 
 
 ## overview
 
@@ -15,3 +15,10 @@ This repo contains a collection of labs that I completed for a course at UW-Madi
 ## files
 
 You will find folders for the data, Jupyter notebooks, and reports for the aforementioned labs.
+
+* `data`
+    - **optical:** All optical data files are in the format of `.fits` files. Both optical folders contain bias frames and flat-field images used for calibration. Opitcal 2 contains images of multiple astronomical sources, but we ultimately found the data on Messier 2 (M2) to be of the best quality among our scans. 
+    - **radio:** The radio data files are simpler and contain a singular `.rad` file for each corresponding lab.
+ 
+* `notebooks` & `reports`
+  - 5 Jupyter notebooks and 5 reports are included for labs as according to the naming scheme above 
