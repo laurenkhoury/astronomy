@@ -21,4 +21,5 @@ You will find folders for the data, Jupyter notebooks, and reports for the afore
     - **radio:** The radio data files are simpler and contain a singular `.rad` file for each corresponding lab.
  
 * `notebooks` & `reports`
-  - 5 Jupyter notebooks and 5 reports are included for labs as according to the naming scheme above 
+  - 5 Jupyter notebooks and 5 reports are included for labs as according to the naming scheme above
+  - a copy of our poster presentation at a UW-Madison Research Symposium can also be found here
